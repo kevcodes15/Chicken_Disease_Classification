@@ -89,7 +89,7 @@ open up you local host and port
 
 	2. AmazonEC2FullAccess
 
-	
+	#test
 ## 3. Create ECR repo to store/save docker image
     - Save the URI: 259574025376.dkr.ecr.eu-north-1.amazonaws.com/chicken_disease_classification
 

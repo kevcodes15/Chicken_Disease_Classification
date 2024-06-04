@@ -12,16 +12,13 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the dvc.yaml
-W
+
 
 # How to run?
 ### STEPS:
 
 Clone the repository
 
-```bash
-https://github.com/entbappy/Chicken-Disease-Classification--Project
-```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
